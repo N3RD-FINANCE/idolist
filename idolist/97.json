@@ -4,21 +4,7 @@
     "symbol": "QUAM",
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
-    "address": "0x58FB4F42f1A724E83b225C306E2409DF5b938E1b"
-  },
-  {
-    "name": "SampleERC20",
-    "symbol": "SERC",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0xc3DcF12299f214DC5ED6747A8b897f508B849e6e"
-  },
-  {
-    "name": "SampleERC20 2",
-    "symbol": "SERC2",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0xdebE1cC5493abaCB6f8B9a7A320F5fa36dc009ff"
+    "address": "0xc4f7fE4773251710dB877f85D01630C2818F19b2"
   }
 ]
 
