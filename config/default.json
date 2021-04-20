@@ -1,0 +1,12 @@
+{
+	"contract": {
+	  "snapshot": "0xfe72c5b590abd8bbbbc10bb2a2ff5389f3b36b5f",
+	  "launchpad": {
+		"97": "0x2b76Ead402f75975aa1ADbcF8C77D306b7e760d4"
+	  },
+	  "whitelist": {
+		"97": "0x11f275192E596484f9b9c31578Ca13abdb5EA9b0"
+	  }
+	}
+  }
+  
