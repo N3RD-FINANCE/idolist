@@ -12,6 +12,13 @@
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
     "address": "0x6CBEDf71B341b9B52bbA27Fb7ed986264D111958"
+  },
+  {
+    "name": "Launchpad Test 2",
+    "symbol": "LPT2",
+    "logo": "/quam/logo.png",
+    "bgImage": "/quam/bg.png",
+    "address": "0xe09e4cb9c40b3A78C78a7d5193AD3d6aB3e08d43"
   }
 ]
 
