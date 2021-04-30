@@ -19,6 +19,24 @@
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
     "address": "0xe09e4cb9c40b3A78C78a7d5193AD3d6aB3e08d43"
+  },
+  {
+    "upcomings": [
+      {
+        "name": "Upcoming project 1",
+        "symbol": "UP1",
+        "logo": "/quam/logo.png",
+        "bgImage": "/quam/bg.png",
+        "timestamp": "1617580800"
+      },
+      {
+        "name": "Upcoming project 2",
+        "symbol": "UP2",
+        "logo": "/quam/logo.png",
+        "bgImage": "/quam/bg.png",
+        "timestamp": "1617753600"
+      }
+    ]
   }
 ]
 
