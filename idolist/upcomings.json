@@ -4,7 +4,7 @@
 	  "symbol": "UP1",
 	  "logo": "/quam/logo.png",
 	  "bgImage": "/quam/bg.png",
-	  "timestamp": "1617580800",
+	  "timestamp": "1620206039",
 	  "network": "Binance Smart Chain"
 	},
 	{
@@ -12,7 +12,7 @@
 	  "symbol": "UP2",
 	  "logo": "/quam/logo.png",
 	  "bgImage": "/quam/bg.png",
-	  "timestamp": "1617753600",
+	  "timestamp": "1620638039",
 	  "network": "Ethereum"
 	}
 ]
