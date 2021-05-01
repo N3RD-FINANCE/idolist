@@ -14,5 +14,13 @@
 	  "bgImage": "/quam/bg.png",
 	  "timestamp": "1617753600",
 	  "network": "Ethereum"
+	},
+	{
+	  "name": "Upcoming project 2",
+	  "symbol": "UP2",
+	  "logo": "/quam/logo.png",
+	  "bgImage": "/quam/bg.png",
+	  "timestamp": "1621059114",
+	  "network": "Ethereum"
 	}
 ]
