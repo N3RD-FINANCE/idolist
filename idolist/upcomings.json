@@ -1,26 +1,10 @@
 [
 	{
-	  "name": "Upcoming project 1",
-	  "symbol": "UP1",
-	  "logo": "/quam/logo.png",
-	  "bgImage": "/quam/bg.png",
-	  "timestamp": "1620206039",
+	  "name": "Egoras Microfinance Protocol",
+	  "symbol": "EGORAS",
+	  "logo": "/egoras/logo.png",
+	  "bgImage": "/egoras/bg.png",
+	  "timestamp": "1621540800",
 	  "network": "Binance Smart Chain"
-	},
-	{
-	  "name": "Upcoming project 2",
-	  "symbol": "UP2",
-	  "logo": "/quam/logo.png",
-	  "bgImage": "/quam/bg.png",
-	  "timestamp": "1620638039",
-	  "network": "Ethereum"
-	},
-	{
-	  "name": "Upcoming project 3",
-	  "symbol": "UP3",
-	  "logo": "/quam/logo.png",
-	  "bgImage": "/quam/bg.png",
-	  "timestamp": "1621059114",
-	  "network": "Ethereum"
 	}
 ]
