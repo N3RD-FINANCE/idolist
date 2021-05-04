@@ -26,6 +26,20 @@
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
     "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
+  },
+  {
+    "name": "Launchpad Test 3",
+    "symbol": "LPT3",
+    "logo": "/quam/logo.png",
+    "bgImage": "/quam/bg.png",
+    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
+  },
+  {
+    "name": "Launchpad Test 3",
+    "symbol": "LPT3",
+    "logo": "/quam/logo.png",
+    "bgImage": "/quam/bg.png",
+    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
   }
 ]
 
