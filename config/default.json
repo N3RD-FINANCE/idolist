@@ -1,6 +1,10 @@
 {
 	"contract": {
 	  "snapshot": "0xfe72c5b590abd8bbbbc10bb2a2ff5389f3b36b5f",
+	  "usd": {
+	        "97": "0x8301f2213c0eed49a7e28ae4c3e91722919b8b47",
+		"42": "0xf3e0d7bf58c5d455d31ef1c2d5375904df525105"
+	  },
 	  "launchpad": {
 		"97": "0x7f55e32f1a497A20DB0dDa5622DEf537f8399145",
 		"42": "0x6385b2807F30f458d273A992ec3481dCee30F35d"
