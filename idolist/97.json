@@ -1,52 +1,10 @@
 [
   {
-    "name": "QUAM Network",
-    "symbol": "QUAM",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0xc4f7fE4773251710dB877f85D01630C2818F19b2"
-  },
-  {
     "name": "Launchpad Test 1",
     "symbol": "LPT1",
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
-    "address": "0x6CBEDf71B341b9B52bbA27Fb7ed986264D111958"
-  },
-  {
-    "name": "Launchpad Test 2",
-    "symbol": "LPT2",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0xe09e4cb9c40b3A78C78a7d5193AD3d6aB3e08d43"
-  },
-  {
-    "name": "Launchpad Test 3",
-    "symbol": "LPT3",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
-  },
-  {
-    "name": "Launchpad Test 3",
-    "symbol": "LPT3",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
-  },
-  {
-    "name": "Launchpad Test 3",
-    "symbol": "LPT3",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
-  },
-  {
-    "name": "Launchpad Test 3 Public Sale",
-    "symbol": "LPT3",
-    "logo": "/quam/logo.png",
-    "bgImage": "/quam/bg.png",
-    "address": "0x81B1F234cB38c3fE4efe4646bF3cd9e7E07651e0"
+    "address": "0x0000000000000000000000000000000000000000"
   }
 ]
 

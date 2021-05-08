@@ -2,15 +2,15 @@
 	"contract": {
 	  "snapshot": "0xfe72c5b590abd8bbbbc10bb2a2ff5389f3b36b5f",
 	  "usd": {
-	        "97": "0x8301f2213c0eed49a7e28ae4c3e91722919b8b47",
+	    "97": "0x8301f2213c0eed49a7e28ae4c3e91722919b8b47",
 		"42": "0xf3e0d7bf58c5d455d31ef1c2d5375904df525105"
 	  },
 	  "launchpad": {
-		"97": "0x7f55e32f1a497A20DB0dDa5622DEf537f8399145",
+		"97": "0xaD2D4fE04678f587c30532D2242B7897fe09f8Fd",
 		"42": "0x6385b2807F30f458d273A992ec3481dCee30F35d"
 	  },
 	  "whitelist": {
-		"97": "0xc4105F62322B510a53dEa1D7fa4eF09ac14239f1",
+		"97": "0xA2C1B356FEd84b47cb8A9132d7e54761097d7bf9",
 		"42": "0x32C868F6318D6334B2250F323D914Bc2239E4EeE"
 	  }
 	}
