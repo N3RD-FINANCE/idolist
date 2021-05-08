@@ -1,6 +1,14 @@
 [
 	{
-	  "name": "Egoras Protocol",
+		"name": "Egoras Protocol Private Sale",
+		"symbol": "EGORAS",
+		"logo": "/egoras/logo.png",
+		"bgImage": "/egoras/bg.png",
+		"timestamp": "1620676800",
+		"network": "Binance Smart Chain"
+	},
+	{
+	  "name": "Egoras Protocol Public Sale",
 	  "symbol": "EGORAS",
 	  "logo": "/egoras/logo.png",
 	  "bgImage": "/egoras/bg.png",
