@@ -19,6 +19,13 @@
     "logo": "/quam/logo.png",
     "bgImage": "/quam/bg.png",
     "address": "0x6CBEDf71B341b9B52bbA27Fb7ed986264D111958"
+  },
+  {
+    "name": "Launchpad Test public sale",
+    "symbol": "LPT1",
+    "logo": "/quam/logo.png",
+    "bgImage": "/quam/bg.png",
+    "address": "0x0000000000000000000000000000000000000003"
   }
 ]
 
