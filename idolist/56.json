@@ -5,6 +5,13 @@
     "logo": "/egoras/logo.png",
     "bgImage": "/egoras/bg.png",
     "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Egoras Protocol Public Sale",
+    "symbol": "EGORAS",
+    "logo": "/egoras/logo.png",
+    "bgImage": "/egoras/bg.png",
+    "address": "0x0000000000000000000000000000000000000001"
   }
 ]
 
